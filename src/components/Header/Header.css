@@ -1,0 +1,16 @@
+.header__container {
+  background-color: #fff;
+  text-align: center;
+  font-weight: bold;
+  padding: 16px;
+}
+
+.header__back-button {
+  color: #FEBFC1;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.header__content {
+  margin: auto;
+}
